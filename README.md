@@ -5,6 +5,7 @@ Este projeto implementa e compara a eficiência da busca binária com a busca se
 Tecnologias utilizadas:
 
 •Python
+
 •Codacy
 
 
